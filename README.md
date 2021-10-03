@@ -6,7 +6,7 @@ disqus: hackmd
 
 # 機台端模擬程式
 
-[GitHub連結](https://hackmd.io/@TaNq7dHGRLWgeV6SVPERyQ/HytbFwXNt)
+[GitHub連結](https://github.com/Guang-Chiun/SimulationEQProgram)
 
 該程式模擬了產線中的機台端程式，程式功能如下:
 * 可輸入監控程式端設定的EQID, Password登錄上線。
