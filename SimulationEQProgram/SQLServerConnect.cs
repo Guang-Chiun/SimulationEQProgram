@@ -15,7 +15,7 @@ namespace SimulationEQProgram
             string sServerName = "localhost\\SQLEXPRESS";   //LAPTOP-FEM2RE78\\SQLEXPRESS   localhost
             string sDataBase = "AOIDB";
             string sID = "sa";
-            string sPassword = "Amy5241";
+            string sPassword = "123456789";
             int TimeOut = 10;
             string connString = $"server={sServerName};database={sDataBase};uid={sID};pwd={sPassword};connect timeout={TimeOut}";
             return connString;
