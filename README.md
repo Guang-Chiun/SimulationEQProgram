@@ -1,9 +1,3 @@
----
-title: 機台端模擬程式
-tags: project
-disqus: hackmd
----
-
 # 機台端模擬程式
 
 [GitHub連結](https://github.com/Guang-Chiun/SimulationEQProgram)
